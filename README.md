@@ -1,5 +1,10 @@
 # &emsp;&emsp;&emsp;                                             Hammed Olalekan Osanyinpeju Portfolio
 
+## Title
+
+  Graduate Chemical Engineer, software programmer, mobile and web app developer, System administrator, DevOps... 
+
+
 ## Skill Set
 
 - **Web Design and Development**
@@ -17,11 +22,15 @@
   
 - **Mobile Development**
 
-  Java-XML android app development
+  Java-XML android app development, React Native
   
 - **Content Management System**
   
-    Blogger, WordPress, Wix, and Joomla
+   Blogger, WordPress, Wix, and Joomla
+    
+- **Others**
+
+   Code versioning, Continous Integration and Continous Development, Unit testing and Integration testing, Software testing and Debugging
     
 ## Projects
 
@@ -36,6 +45,10 @@
 - **Streamcomm App** (2019)
 
   https://play.google.com/store/apps/details?id=co.streamcomm.video.streamcomm
+ 
+- **Streamcomm Web** (2019)
+
+   http://video.streamcomm.co
   
 - **Unified USSD Integration** (2018)
   
