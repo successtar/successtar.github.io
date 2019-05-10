@@ -68,6 +68,7 @@
   
 - **OTHERS**
 
+  - **[Music Portal](http://music.myexampoint.com/)** (2018)
   - **[Estate Surveyor & Valuers Website Sample Page](http://lab.myexampoint.com/client/test.html)** (2018)
   - **[Destination Places around the World](http://destination.myexampoint.com)** (2018)
   - **[Periodic Table Software](https://drive.google.com/file/d/1ie2nqPDk1BGKf_QKgoNiAmG4_whX10FT)** (2013)
