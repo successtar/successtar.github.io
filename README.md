@@ -53,6 +53,10 @@
 - **Unified USSD Integration** (2018)
   
 - **Asterisk OBD calls** (2018)
+
+- **Easy Cliq Computer Institute** (2016)
+
+  http://easycliqcomputer.com.ng/
   
 - **My Exam Point** (2015)
   
