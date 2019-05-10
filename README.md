@@ -56,7 +56,7 @@
 
 - **Easy Cliq Computer Institute** (2016)
 
-  http://easycliqcomputer.com.ng/
+  https://easycliqcomputer.com.ng/
   
 - **My Exam Point** (2015)
   
