@@ -329,18 +329,21 @@ $(function(){
 
       var textDesc = [];
 
-          
           textDesc[0] = "Software programmer";
 
-          textDesc[1] = "Mobile and web app developer";
+          textDesc[1] = "Fullstack developer";
 
-          textDesc[2] = "System administration & DevOps";
+          textDesc[2] = "Mobile app developer";
 
-          textDesc[3] = "Graduate Chemical Engineer";
+          textDesc[3] = "System administrator";
 
-          textDesc[4] = "let's work together";
+          textDesc[4] = "DevOps...";
+
+          textDesc[5] = "Chemical Engineer";
+
+          textDesc[6] = "let's work together";
           
-          textDesc[5] = "i can create awesome stuff";
+          textDesc[7] = "i can create awesome stuff";
 
           if (!!$.prototype.typer) {
             text.typer(textDesc);
