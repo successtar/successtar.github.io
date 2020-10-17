@@ -372,6 +372,7 @@ Home
 }
 
 .avatar-hero img {
+	display: none;
 	width: 130px;
 	margin: 0 auto;
 	border: solid 3px #dfdfdf;
@@ -386,6 +387,11 @@ Home
 	font-size: 34px;
 	margin: 36px 0 22px;
 	color: #fff;
+}
+@media  (min-width:992px){
+	#home h1 {
+		margin: 18rem 0 22px;
+	}
 }
 #home .typer-title {
 	margin: 10px 0;
@@ -1184,3 +1190,16 @@ keyframes animation
 	margin-top: 0px; 
 	margin-bottom: 0px
 }
+
+#contact{
+
+	background-image: url(../img/hammed-down-bg.jpg);
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#contact .transp-back{
+	padding: 145px 0;
+	background: rgba(255,255,255,0.5);
+} 
