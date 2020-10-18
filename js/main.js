@@ -339,7 +339,7 @@ $(function(){
 
           textDesc[4] = "DevOps...";
 
-          textDesc[5] = "Chemical Engineer";
+          textDesc[5] = "Graduate Chemical Engineer";
 
           textDesc[6] = "let's work together";
           
